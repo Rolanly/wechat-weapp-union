@@ -40,7 +40,7 @@
  [微信小程序优秀教程及文章合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4742)
  
  
- ### 商城开发指南：
+ ### > 商城开发指南：
 
 
 微信小程序商城模块 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2384)
@@ -66,7 +66,7 @@ ecshop商城开发：用户信息的获取和缓存，地址信息的缓存 | [
 微信小程序之购物车—— 微信小程序实战商城系列（5）| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2067)
 
 
-### 商城Demo：
+### > 商城Demo：
 
 微信小程序Demo：零食商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5201&highlight=商城)
 
@@ -146,7 +146,7 @@ ecshop商城开发：用户信息的获取和缓存，地址信息的缓存 | [
 
 微信小程序demo：爱宝宝母婴微商城 完整源码+配置指南| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5400&fromuid=17761)
 
-### 小程序支付指南：
+### > 小程序支付指南：
 
 
 微信小程序与php 实现微信支付 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2558)
@@ -210,7 +210,7 @@ Java 后台 实现小程序支付| [链接](http://www.wxapp-union.com/portal.p
 微信小程序支付流程（注意事项），小程序支付回调 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=690)
 
 
-### 问题集锦：
+### > 问题集锦：
 
 小程序接入微信支付，你可能会遇上这些坑 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=782)
 
@@ -229,7 +229,7 @@ Java 后台 实现小程序支付| [链接](http://www.wxapp-union.com/portal.p
 
 
 
-### 精品Demo：
+### > 精品Demo：
 
 小程序支付详解+源码(客户端+服务端)| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=6194&highlight=支付)
 
