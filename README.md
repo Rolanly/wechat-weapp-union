@@ -31,7 +31,7 @@
 
 ## 精品教程
 
-#### 小程序特殊效果
+### 小程序特殊效果
 
  [微信小程序特殊效果合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4727)
  
@@ -40,7 +40,7 @@
  [微信小程序优秀教程及文章合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4742)
  
  
- #### 商城开发指南：
+ ### 商城开发指南：
 
 
 微信小程序商城模块 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2384)
@@ -66,7 +66,7 @@ ecshop商城开发：用户信息的获取和缓存，地址信息的缓存 | [
 微信小程序之购物车—— 微信小程序实战商城系列（5）| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2067)
 
 
-#### 商城Demo：
+### 商城Demo：
 
 微信小程序Demo：零食商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5201&highlight=商城)
 
@@ -145,6 +145,105 @@ ecshop商城开发：用户信息的获取和缓存，地址信息的缓存 | [
 微信小程序demo：吉利宝商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=2736&fromuid=17761)
 
 微信小程序demo：爱宝宝母婴微商城 完整源码+配置指南| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5400&fromuid=17761)
+
+### 小程序支付指南：
+
+
+微信小程序与php 实现微信支付 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2558)
+
+微信小程序---设计支付密码的输入框| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2544)
+
+e玩转小程序支付之付款（统一下单）| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2542)
+
+小程序支付详解+源码(客户端+服务端) | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2516)
+
+【小白专用】微信小程序支付，微信支付| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2480)
+
+微信小程序支付功能 C# .NET开发| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2345)
+
+小程序绑定已有商户号开通微信支付 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2257)
+
+【微信小程序】支付过程详解 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2207)
+
+三张表读懂微信小程序与支付宝小程序的差别| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2175)
+
+Java 后台 实现小程序支付| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2145)
+
+微信小程序微信支付接入开发| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1938)
+
+小程序绑定已有商户号开通微信支付 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2257)
+
+【微信小程序】支付过程详解 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2207)
+
+三张表读懂微信小程序与支付宝小程序的差别| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2175)
+
+Java 后台 实现小程序支付| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2145)
+
+微信小程序微信支付接入开发| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1938)
+
+微信小程序支付简单小结与梳理 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1872)
+
+小程序支付基本流程| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1757)
+
+微信支付后台开发步骤（附后台demo）| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1620)
+
+微信小程序支付源码，后台服务端代码 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1602)
+
+必看！官方文档没有！从零接入微信小程序支付（微信支付）| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=375)
+
+小程序微信支付不完全接入指南 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=186)
+
+移动支付开发：小程序微信支付开发的一点体会 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=324)
+
+微信小程序支付（微信支付）文档API列表：查阅订单，统一下单，关闭订单 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=611)
+
+微信小程序支付（微信支付）文档API列表：申请退款，查询退款，下载对账单| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=612)
+
+微信小程序支付（微信支付）文档API列表：支付结果通知，交易保障| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=613)
+
+微信支付API错误码查询 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=614)
+
+微信小程序支付（微信支付）封装接口教程| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=621)
+
+微信支付接口签名校验工具| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=747)
+
+微信小程序支付流程（注意事项），小程序支付回调 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=690)
+
+
+### 问题集锦：
+
+小程序接入微信支付，你可能会遇上这些坑 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=782)
+
+跳坑《一百八十六》支付签名校验失败（签名错误） | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4100)
+
+跳坑《一百二十三》微信支付（微信小程序支付）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=3432)
+
+关于微信小程序的支付开发：40013错误| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1220)
+
+
+微信支付wx.requestPayment失败 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=6358&highlight=支付)
+
+跳坑《一百二十三》微信支付（微信小程序支付）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=3432)
+
+关于微信小程序的支付开发：40013错误| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1220)
+
+
+
+### 精品Demo：
+
+小程序支付详解+源码(客户端+服务端)| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=6194&highlight=支付)
+
+微信小程序完整demo：搭伴拼团（PHP）：微信支付 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4913&highlight=支付)
+
+微信小程序demo：赞赏，支付、登录、会话管理，使用nami后端 | [链接](http://www.wxapp-union.com/search.php?mod=forum&searchid=155&orderby=lastpost&ascdesc=desc&searchsubmit=yes&kw=支付) 
+
+微信小程序demo：送礼物：使用leancloud支付 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=3815&highlight=%E6%94%AF%E4%BB%98)
+
+微信小程序demo：微信支付后端demo（java）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=3468&highlight=%E6%94%AF%E4%BB%98)
+
+[微信小程序demo：金盆洗脚城；node后端，微信登录，微信支付 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=3466&highlight=%E6%94%AF%E4%BB%98)
+
+
 ## 目录
 
 - [小程序精品源码](#小程序精品源码)
