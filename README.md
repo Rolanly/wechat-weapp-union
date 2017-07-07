@@ -4,6 +4,7 @@
  
 我们会一直更新维护, 同时也欢迎更多的微信小程序开发者将自己常用的工具、学习资料、学习心得等分享上来, 我们将定期筛选整理, 希望我能与大家一起学习进步, 谢谢.
 
+=============================================================
 
 1：官方工具：[https://mp.weixin.qq.com/debug/w ... tml?t=1476434678461](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1476434678461)
 
@@ -25,7 +26,12 @@
 
 10：从注册到上线系列：[http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4375](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4375)
 
-11：精品合集：
+
+=============================================================
+
+## 精品教程
+
+#### 小程序特殊效果
 
  [微信小程序特殊效果合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4727)
  
@@ -34,6 +40,111 @@
  [微信小程序优秀教程及文章合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4742)
  
  
+ #### 商城开发指南：
+
+
+微信小程序商城模块 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2384)
+
+使用zanui开发小程序微商城（模板组件的开发规范）| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1863)
+
+ecshop商城开发：用户信息的获取和缓存，地址信息的缓存 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=1891)
+
+微信小程序商城 - 基于ecshop插件接口文件 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2101)
+
+基于vue, react, node.js, go开发的微商城 | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2445)
+
+移动小商城：基于node，包含前后台 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=961&fromuid=17761)
+
+微信小程序之侧栏分类 —— 微信小程序实战商城系列（1） | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2365)
+
+微信小程序之仿淘宝分类入口 —— 微信小程序实战商城系列（2） | [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2367)
+
+微信小程序之购物数量加减 —— 微信小程序实战商城系列（3）| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2374)
+
+微信小程序之商品属性分类 —— 微信小程序实战商城系列（4）| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2375)
+
+微信小程序之购物车—— 微信小程序实战商城系列（5）| [链接](http://www.wxapp-union.com/portal.php?mod=view&aid=2067)
+
+
+#### 商城Demo：
+
+微信小程序Demo：零食商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5201&highlight=商城)
+
+微信小程序商城类demo：灵动云商（含PHP后端）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4718&fromuid=17761)
+
+微信小程序demo：经销商/供应商/加工厂/供应商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5105&fromuid=17761)
+
+微信小程序demo：儿童类微商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4390&highlight=商城)
+
+微信小程序Demo：美容商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5808&fromuid=17761)
+
+微信小程序demo：济颐馆：营养品类商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4761&fromuid=17761)
+
+微信小程序demo：仁怀酱酒宝：酒类商城模板 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4733&fromuid=17761)
+
+微信小程序Demo：五洲商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5334&fromuid=17761)
+
+微信小程序Demo：微商商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5129&fromuid=17761)
+
+微信小程序Demo：辣椒忍者（点餐商城）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5282&fromuid=17761)
+
+微信小程序demo：九猫大百货 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=2979&fromuid=17761)
+
+微信小程序Demo：淘宝商城一类 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5166&fromuid=17761)
+
+微信小程序完整demo：企业版商城（含php后端）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5069&fromuid=17761)
+
+微信小程序demo：猴哥数码商城（附java后端）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=2620&fromuid=17761)
+
+微信小程序demo：乐仁商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4749&fromuid=17761)
+
+微信小程序商城类demo：丽芙家具 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4490&fromuid=17761)
+
+微信小程序demo：仿玩物志商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=2850&fromuid=17761)
+
+微信小程序demo：我的商城 抽屉层| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=2406&fromuid=17761)
+
+微信小程序demo：酒水商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=3649&fromuid=17761)
+
+微信小程序商城类demo：DFS：前端、PHP后端 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=3469&fromuid=17761)
+
+微信小程序demo：辅材商城，tab列表 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=3216&fromuid=17761)
+
+微信小程序完整demo：巴爷商城（含后端）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=2946&fromuid=17761)
+
+微信小程序demo：同乐居商城：购物车合算（适用1221）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1420&fromuid=17761)
+
+微信小程序商城demo：界面设计基本完善（适用1221）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1305&fromuid=17761)
+
+微信小程序demo：幸运叶子商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1882&fromuid=17761)
+
+微信小程序学习用demo：康爱多微商城：学习界面设计 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1142&fromuid=17761)
+
+微信小程序商城demo：UI设计完善，适用1122版本 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=771&fromuid=17761)
+
+微信小程序demo：投资收益商城（组件练习，适用1122版本）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=465&fromuid=17761)
+
+微信小程序学习用demo：积分商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=808&fromuid=17761)
+
+微信小程序demo：基础商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=785&fromuid=17761)
+
+微信小程序demo：商城分销系统 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=591&fromuid=17761)
+
+优质demo推荐：老酒商城：适用1028版本 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=289&fromuid=17761)
+
+微信小程序demo：黑市商城框架；适用1028版本 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=305&fromuid=17761)
+
+[微信小程序demo：XY商城：适用1028版本 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=302&fromuid=17761)
+
+微信小程序demo：环球小镇商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=233&fromuid=17761)
+
+微信小程序demo：有调商城| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=209&fromuid=17761)
+
+微信小程序demo：大好商城（新增功能天气查询和2048游戏）| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=146&fromuid=17761)
+
+微信小程序demo：吉利宝商城 | [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=2736&fromuid=17761)
+
+微信小程序demo：爱宝宝母婴微商城 完整源码+配置指南| [链接](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5400&fromuid=17761)
 ## 目录
 
 - [小程序精品源码](#小程序精品源码)
