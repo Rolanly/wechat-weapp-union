@@ -3,6 +3,36 @@
 我们汇聚了原创性小程序源码、精品小程序源码、由浅入深的系列教程供大家学习参考，也希望更多的同学加入我们。
  
 我们会一直更新维护, 同时也欢迎更多的微信小程序开发者将自己常用的工具、学习资料、学习心得等分享上来, 我们将定期筛选整理, 希望我能与大家一起学习进步, 谢谢.
+
+
+1：官方工具：[https://mp.weixin.qq.com/debug/w ... tml?t=1476434678461](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1476434678461)
+
+2：简易教程：[https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1476434677599](https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1476434677599)
+
+3：设计指南：[https://mp.weixin.qq.com/debug/wxadoc/design/index.html](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
+
+4：设计资源下载：[https://mp.weixin.qq.com/debug/wxadoc/design/#](https://mp.weixin.qq.com/debug/wxadoc/design/#)资源下载
+
+5：[微信](http://www.wxapp-union.com/)[小程序](http://www.wxapp-union.com/)公测接入指南：[http://www.wxapp-union.com/portal.php?mod=view&aid=259](http://www.wxapp-union.com/portal.php?mod=view&aid=259)
+
+6：微信小程序支付文档：[https://pay.weixin.qq.com/wiki/d ... pi.php?chapter=3_1#](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=3_1#)
+
+7：新手入门宝典：[http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1989](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1989)
+
+8：免费视频：[http://www.wxapp-union.com/forum.php?mod=forumdisplay&fid=37&filter=typeid&typeid=7](http://www.wxapp-union.com/forum.php?mod=forumdisplay&fid=37&filter=typeid&typeid=7)
+
+9：实战宝典：[http://www.wxapp-union.com/special/solution.html](http://www.wxapp-union.com/special/solution.html)
+
+10：从注册到上线系列：[http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4375](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4375)
+
+11：精品合集：
+
+ [微信小程序特殊效果合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4727)
+ 
+ [微信小程序特殊效果合集第二期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4811)
+    
+ [微信小程序优秀教程及文章合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4742)
+ 
  
 ## 目录
 
@@ -75,36 +105,7 @@
 购物|[白天不懂夜的黑-黑市商城](https://github.com/dily3825002/wechat-weapp-union/tree/master/wxApp)|和上边一样购物商城|⭐️⭐️⭐️⭐️⭐️
 工具|[icindy-wxParse](https://github.com/icindy/wxParse)|微信小程序富文本解析自定义组件，支持HTML及markdown解析|⭐️⭐️⭐️⭐️⭐️
 
-
-1：官方工具：[https://mp.weixin.qq.com/debug/w ... tml?t=1476434678461](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1476434678461)
-
-2：简易教程：[https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1476434677599](https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1476434677599)
-
-3：设计指南：[https://mp.weixin.qq.com/debug/wxadoc/design/index.html](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
-
-4：设计资源下载：[https://mp.weixin.qq.com/debug/wxadoc/design/#](https://mp.weixin.qq.com/debug/wxadoc/design/#)资源下载
-
-5：[微信](http://www.wxapp-union.com/)[小程序](http://www.wxapp-union.com/)公测接入指南：[http://www.wxapp-union.com/portal.php?mod=view&aid=259](http://www.wxapp-union.com/portal.php?mod=view&aid=259)
-
-6：微信小程序支付文档：[https://pay.weixin.qq.com/wiki/d ... pi.php?chapter=3_1#](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=3_1#)
-
-7：新手入门宝典：[http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1989](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1989)
-
-8：免费视频：[http://www.wxapp-union.com/forum.php?mod=forumdisplay&fid=37&filter=typeid&typeid=7](http://www.wxapp-union.com/forum.php?mod=forumdisplay&fid=37&filter=typeid&typeid=7)
-
-9：实战宝典：[http://www.wxapp-union.com/special/solution.html](http://www.wxapp-union.com/special/solution.html)
-
-10：从注册到上线系列：[http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4375](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4375)
-
-11：精品合集：
-
- [微信小程序特殊效果合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4727)
- 
- [微信小程序特殊效果合集第二期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4811)
     
- [微信小程序优秀教程及文章合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4742)
-     
-     
 
 ## 小程序精品开发教程
 
