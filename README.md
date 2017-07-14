@@ -394,7 +394,7 @@ Java 后台 实现小程序支付| [链接](http://www.wxapp-union.com/portal.p
 
     如果你想找到志同道合的小程序员朋友，可以申请加入【小程序开发者联盟】  
 
-http://www.wxapp-union.com/edm/images/qrcode.jpg
+![](http://www.wxapp-union.com/edm/images/qrcode.jpg)
 
 
 
